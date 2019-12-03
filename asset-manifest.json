@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-stateful-timer/static/css/main.42628116.chunk.css",
+    "main.js": "/react-stateful-timer/static/js/main.4c434bfe.chunk.js",
+    "main.js.map": "/react-stateful-timer/static/js/main.4c434bfe.chunk.js.map",
+    "runtime-main.js": "/react-stateful-timer/static/js/runtime-main.8d26c1bf.js",
+    "runtime-main.js.map": "/react-stateful-timer/static/js/runtime-main.8d26c1bf.js.map",
+    "static/js/2.5d7da719.chunk.js": "/react-stateful-timer/static/js/2.5d7da719.chunk.js",
+    "static/js/2.5d7da719.chunk.js.map": "/react-stateful-timer/static/js/2.5d7da719.chunk.js.map",
+    "index.html": "/react-stateful-timer/index.html",
+    "precache-manifest.f91fbed556049bcd21585ffc21d1e0e4.js": "/react-stateful-timer/precache-manifest.f91fbed556049bcd21585ffc21d1e0e4.js",
+    "service-worker.js": "/react-stateful-timer/service-worker.js",
+    "static/css/main.42628116.chunk.css.map": "/react-stateful-timer/static/css/main.42628116.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d26c1bf.js",
+    "static/js/2.5d7da719.chunk.js",
+    "static/css/main.42628116.chunk.css",
+    "static/js/main.4c434bfe.chunk.js"
+  ]
+}
